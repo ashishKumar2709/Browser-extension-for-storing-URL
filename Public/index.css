@@ -1,0 +1,42 @@
+body{
+    margin:0;
+    padding:10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 400px;
+}
+input{
+    width:100%;
+    padding:10px;
+    border:1px solid green;
+    box-sizing: border-box;
+}
+button{
+    background-color:olivedrab;
+    color:ivory;
+    padding:10px 20px;
+    border: 1px solid olivedrab;
+    margin-top: 5px;
+    box-shadow: olivedrab 2px 2px;
+}
+#dltbtn{
+    background-color: ivory;
+    color:olivedrab;
+
+}
+
+a{
+    color:olivedrab;
+}
+ul li{
+    list-style: none;
+    padding:5px;
+}
+/* ul li button{
+    border-style: none;
+    background-color: ivory;
+    color:red;
+} */
+ul{
+    padding-left: 0px;
+    margin-top: 10px;
+}
